@@ -8,5 +8,4 @@
 		<Item Name="Mail Address.ctl" Type="VI" URL="../Mail Address.ctl"/>
 	</Item>
 	<Item Name="Gmail.lvclass" Type="LVClass" URL="../Gmail/Gmail.lvclass"/>
-	<Item Name="OAuth2.lvclass" Type="LVClass" URL="../OAuth2/OAuth2.lvclass"/>
 </Library>
